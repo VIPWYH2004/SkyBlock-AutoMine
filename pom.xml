@@ -6,7 +6,7 @@
 
     <groupId>com.wyh2004.skyblock</groupId>
     <artifactId>SkyBlock-AutoMine</artifactId>
-    <version>2.2-SNAPSHOT</version>
+    <version>2.3-SNAPSHOT</version>
 
     <build>
         <plugins>

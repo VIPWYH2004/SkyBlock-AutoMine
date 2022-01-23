@@ -28,7 +28,7 @@ public class Main {
         String username = System.getProperty("user.name");
 
         System.out.println("Code By WYH2004");
-        System.out.println("Auto Mine Version: " + "2.2");
+        System.out.println("Auto Mine Version: " + "2.3");
         System.out.println("免责声明：使用本软件仅供学习参考，请在24小时内自行删除");
         System.out.println("          如果发生账号封禁等问题，责任由用户(" + username + ")自己负责");
 

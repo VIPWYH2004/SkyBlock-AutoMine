@@ -49,9 +49,9 @@ public class HypixelBiss {
             }
             robot.mouseRelease(KeyEvent.BUTTON1_MASK);
             System.out.println("Anti Lobby");
-            sendcommand("/hub");
+            sendcommand("/lobby");
             Thread.sleep(5000);
-            sendcommand("/is");
+            sendcommand("/skyblock");
             Thread.sleep(13000);
             System.out.println("Off Fly");
             robot.keyPress(KeyEvent.VK_SHIFT);
